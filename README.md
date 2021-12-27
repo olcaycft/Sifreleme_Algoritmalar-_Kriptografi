@@ -1,6 +1,6 @@
 # Sifreleme_Algoritmalar-_Kriptografi
-#Kriptoloji
-##Metin şifreleme algoritmaları
+# Kriptoloji
+## Metin şifreleme algoritmaları
 
 Sezar şifreleme algoritması ile şifreleme ve şifre çözme ve akış diyagramı
 
